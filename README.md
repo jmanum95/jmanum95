@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! My name is Juanma and I'm a web developement student, i was always close to the IT world but in this last year i've centered my efforts in learning about web programming. I also have knowledge in computer hardware and maintenance, i actually run a small business of it, i performed as logistics manager in a local company for 8 years and i have an advanced english level.
+Hey! My name is Juanma and I'm a full stack web developer, i was always close to the IT world but in this last year i've centered my efforts in learning about web programming. I also have knowledge in computer hardware and maintenance, i actually run a small business of it, i performed as logistics manager in a local company for 8 years and i have an advanced english level.
 
 Current proyect: <a href="https://happytails.vercel.app/">Happy Tails</a>
 
