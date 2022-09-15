@@ -5,7 +5,7 @@ Current proyect: <a href="https://happytails.vercel.app/">Happy Tails</a>
 
 Contact me!
 
-jmanumx@gmail.com
+jmanumx@gmail.com <br/>
 https://www.linkedin.com/in/jmanum95/
 
 
