@@ -1,0 +1,32 @@
+
+.projects{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.projects img {
+    border-radius: 1rem;
+    width: 40vw;
+    vertical-align: middle;
+}
+
+.projects p {
+    max-width: 40vw;
+}
+
+.card{
+    transition: .5s;
+    margin: 3rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 20px rgb(140, 0, 255);
+}
+
+.card a {
+    background-color: rgb(140, 0, 255);
+    padding: .3rem;
+    border-radius: 1rem;
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+}

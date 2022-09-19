@@ -1,0 +1,29 @@
+
+.nav {
+    margin: 0 5%;
+    display: flex;
+    justify-content:space-evenly;
+    background: linear-gradient(90deg, rgb(28, 41, 143) 0%, rgba(140,0,255,1) 100%);
+    align-items: center;
+    border-radius: 0 0 1em 1em;
+}
+
+.nav a {
+    text-decoration: none;
+}
+
+.liandgh{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.liandgh img {
+    margin-left: .5vw;
+    width: 2.5vw;
+    vertical-align: middle;
+}
+
+.github{
+    transform: scale(0.7);
+}
