@@ -2,6 +2,7 @@
 
 Hi! I'm Juanma and I'm a Full stack developer, I am passionate about technology and sports. I discovered the programming world when I was in high school
 because it was informatics oriented, there I gave my first steps with Python. In the following years I dedicated myself to study for English-Spanish Translator and at the same time I was working in an event organization company as logistics manager, but towards the end of it I started to wonder if it was what I wanted to do. It was there when I gave my life a 180 degree turn and came back to something i always loved but only took as hobby. I built my own PC service business and returned to the beautiful world of programming.
+<br/>
 I think that every road led me to this moment and contributed to form me as person and professional. I acquired lots of knowledge during Henry´s Bootcamp and it taught me the basics to keep learning on my own every day, my English level and computer knowledge make the entire learning process much easier and having worked 8 years in a role that required responsibility makes me aware of the importance of organization, planing and teamwork to accomplish goals.
 
 Current proyect: <a href="https://happytails.vercel.app/">Happy Tails</a>
