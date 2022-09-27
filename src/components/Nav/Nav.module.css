@@ -20,10 +20,16 @@
 
 .liandgh img {
     margin-left: .5vw;
-    width: 2.5vw;
+    width: 4vw;
     vertical-align: middle;
 }
 
 .github{
     transform: scale(0.7);
+}
+
+@media (max-width: 750px) { 
+    .liandgh img {
+        width: 6vw;
+    }
 }
