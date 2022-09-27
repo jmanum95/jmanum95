@@ -52,3 +52,26 @@
     filter: invert();
 }
 
+@media (max-width: 750px) { 
+    .homedata{
+        display: block;
+    }
+    .profileimg{
+        margin-top: 2em;
+        width: 30vw;
+    }
+    .data h1 {
+        margin-top: 0;
+        font-size: 10vw;
+    }
+    
+    .data h2 {
+        font-size: 5vw;
+    }
+    .tecstack h2 {
+        font-size: 3vw;
+    }
+    .tecstack img {
+        width: 9vw;
+    }
+}
