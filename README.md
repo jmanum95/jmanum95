@@ -5,12 +5,11 @@ because it was informatics oriented, there I gave my first steps with Python. In
 <br></br>
 I think that every road led me to this moment and contributed to form me as person and professional. I acquired lots of knowledge during Henry´s Bootcamp and it taught me the basics to keep learning on my own every day, my English level and computer knowledge make the entire learning process much easier and having worked 8 years in a role that required responsibility makes me aware of the importance of organization, planing and teamwork to accomplish goals.
 
-Current proyect: <a href="https://happytails.vercel.app/">Happy Tails</a>
 
 Contact me!
 
 jmanumx@gmail.com <br/>
-https://www.linkedin.com/in/jmanum95/
+https://www.linkedin.com/in/jmanum95
 
 
 # 💻 Tech Stack:
